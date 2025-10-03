@@ -5,7 +5,7 @@ Thoery: The program implements a simple stack data structure using an array with
 Algorithm:
 
     Step-1: Start
-    Step-2: Increment the top index by 1.
+    Step-2: Increment the top index by 1.  
     Step-3: Insert the new element at arr[top].
     Step-4: Decrement the top index by 1, effectively removing the top element from the stack.
     Step-5: Iterate from index 0 to top.
